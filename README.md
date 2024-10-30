@@ -1,10 +1,6 @@
 # Olá, eu sou o Athylla 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athyllarodrigues/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://athyllarodrigues.github.io/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/athyllarodrig)
-
-Meu nome é Athylla, sou desenvolvedor Full Stack com foco em front-end e back-end.
+Sou desenvolvedor Full Stack com foco em front-end e back-end.
 
 **Tecnologias que eu uso** 🌟  
 
@@ -15,4 +11,11 @@ Meu nome é Athylla, sou desenvolvedor Full Stack com foco em front-end e back-e
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athyllarodrigues&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+**Redes Sociais**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athyllarodrigues/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://athyllarodrigues.github.io/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/athyllarodrig)
