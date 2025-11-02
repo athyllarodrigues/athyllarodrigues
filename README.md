@@ -1,22 +1,70 @@
-# Olá, eu sou o Athylla 🎸
+<!-- 🌐 Language Switch -->
+<p align="right">
+  <a href="#pt-br">🇧🇷 Versão em Português</a>
+</p>
 
-Desenvolvedor Full Stack com foco em front-end.
+# 👨‍💻 Athylla Rodrigues — DevOps & Cloud Engineer
 
-**TECNOLOGIAS QUE USO:**   
+### ⚙️ About Me
+I'm a **DevOps Engineer** and **Full Stack Developer** passionate about building efficient infrastructures and deploying scalable web applications.  
+Focused on **automation, CI/CD pipelines, and cloud environments (AWS, Linux, Docker, Nginx, GitHub Actions)**.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🧰 Tech Stack
+- **Cloud & Infrastructure:** AWS (EC2, S3, Route 53), Docker, Nginx, Ubuntu, SSH  
+- **DevOps Tools:** Git, GitHub Actions, CI/CD, Shell Script  
+- **Web Development:** Python, HTML5, CSS3, JavaScript
+- **Monitoring & Automation:** Linux CLI, Systemctl, Cronjobs  
 
-## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athyllarodrigues&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🚀 Current Focus
+Improving **infrastructure automation** and optimizing **deployment workflows** for high-performance web environments.
 
+### 📊 GitHub Stats
+![Athylla's GitHub stats](https://github-readme-stats.vercel.app/api?username=athyllarodrig&show_icons=true&theme=dark&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=athyllarodrig&theme=dark&hide_border=true)
 
-**Redes Sociais**
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athyllarodrigues/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://athyllarodrigues.github.io/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/athyllarodrig)
+## 🧠 Projects Highlights
+- **DevOps Project:** Static Website Deployment on AWS EC2  
+  *(Nginx + Ubuntu + Domain + SSL + CI/CD)*  
+- **Web Portfolio:** Creative front-end with animations and responsive design  
+- **Automation Scripts:** Linux system setup and deployment helpers  
+
+---
+
+## 🌐 Connect with Me
+- **LinkedIn:** [linkedin.com/in/athyllarodrigues](https://www.linkedin.com/in/athyllarodrigues/)
+- **GitHub:** [github.com/athyllarodrig](https://github.com/athyllarodrig)
+- **Email:** [athyllarodrig@gmail.com](mailto:athyllarodrig@gmail.com)
+
+---
+
+<a id="pt-br"></a>
+
+# 🇧🇷 Athylla Rodrigues — Engenheiro DevOps & Cloud
+
+### ⚙️ Sobre Mim
+Sou **Engenheiro DevOps** e **Desenvolvedor Full Stack**, com foco em criar infraestruturas automatizadas e implantações eficientes.  
+Trabalho com **AWS, Linux, Docker, Nginx e GitHub Actions**, sempre buscando **automação e alta disponibilidade**.
+
+### 🧰 Stack Técnica
+- **Cloud & Infraestrutura:** AWS (EC2, S3, Route 53), Docker, Nginx, Ubuntu, SSH  
+- **Ferramentas DevOps:** Git, GitHub Actions, CI/CD, Shell Script  
+- **Desenvolvimento Web:** Python, HTML5, CSS3, JavaScript
+- **Monitoramento & Automação:** Linux CLI, Systemctl, Cronjobs  
+
+### 🚀 Foco Atual
+Aprimorar **automação de infraestrutura** e **pipelines de deploy** para ambientes web de alta performance.
+
+---
+
+### 📈 Estatísticas do GitHub
+![Athylla's GitHub stats](https://github-readme-stats.vercel.app/api?username=athyllarodrig&show_icons=true&theme=dark&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=athyllarodrig&theme=dark&hide_border=true)
+
+---
+
+### 🌐 Conecte-se Comigo
+- **LinkedIn:** [linkedin.com/in/athyllarodrigues](https://www.linkedin.com/in/athyllarodrigues/)
+- **GitHub:** [github.com/athyllarodrig](https://github.com/athyllarodrig)
+- **Email:** [athyllarodrig@gmail.com](mailto:athyllarodrig@gmail.com)
